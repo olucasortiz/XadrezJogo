@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos C#\\xadrez console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|c:\\projetos c#\\xadrez console\\xadrez console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|solutionrelative:xadrez console\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|c:\\projetos c#\\xadrez console\\xadrez console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|solutionrelative:xadrez console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|c:\\projetos c#\\xadrez console\\xadrez console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|solutionrelative:xadrez console\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|c:\\projetos c#\\xadrez console\\xadrez console\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|solutionrelative:xadrez console\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|c:\\projetos c#\\xadrez console\\xadrez console\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|solutionrelative:xadrez console\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|c:\\projetos c#\\xadrez console\\xadrez console\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7E5788-3237-4B60-9E8A-28D82DAAAAAC}|xadrez console\\xadrez console.csproj|solutionrelative:xadrez console\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\xadrez console\\xadrez console\\Tela.cs",
+              "RelativeDocumentMoniker": "xadrez console\\Tela.cs",
+              "ToolTip": "C:\\Projetos C#\\xadrez console\\xadrez console\\Tela.cs",
+              "RelativeToolTip": "xadrez console\\Tela.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:15:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "xadrez console\\tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "xadrez console\\tabuleiro\\Peca.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:09:35.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "xadrez console\\tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "xadrez console\\tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:11:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "xadrez console\\tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Cor.cs",
+              "RelativeToolTip": "xadrez console\\tabuleiro\\Cor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:09:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "xadrez console\\tabuleiro\\Posicao.cs",
+              "ToolTip": "C:\\Projetos C#\\xadrez console\\xadrez console\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "xadrez console\\tabuleiro\\Posicao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:06:07.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos C#\\xadrez console\\xadrez console\\Program.cs",
+              "RelativeDocumentMoniker": "xadrez console\\Program.cs",
+              "ToolTip": "C:\\Projetos C#\\xadrez console\\xadrez console\\Program.cs",
+              "RelativeToolTip": "xadrez console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:05:44.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
