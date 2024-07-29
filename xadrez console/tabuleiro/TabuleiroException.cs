@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace tabuleiro
 {
-    enum Cor
+    class TabuleiroException : Exception
     {
-        Branca, Amarela, Azul, Vermelha, Verde, Laranja, Preto
+        public TabuleiroException(string msg) :base(msg){ 
+        }
     }
 }
