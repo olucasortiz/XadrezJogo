@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace tabuleiro
+﻿namespace tabuleiro
 {
     class Peca
     {
@@ -21,5 +14,10 @@ namespace tabuleiro
             this.cor = cor;
             this.tab = tab;
         }
+        public void IncrementarQtdMovimento()
+        {
+            qtdMovimento++; 
+        }
+
     }
 }

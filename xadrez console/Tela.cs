@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Data.Common;
 using tabuleiro;
-
+using xadrez;
 namespace xadrez_console
 {
     class Tela
@@ -9,15 +10,16 @@ namespace xadrez_console
         {
             for (int i = 0; i < tab.linhas; i++)
             {
-                Console.WriteLine(8-i + " ");
+                Console.Write(8-i + " ");
                 for (int j = 0; j < tab.colunas; j++)
                 {
+
                     if (tab.peca(i, j) == null)
-                        Console.Write(" -");
+                        Console.Write("- ");
                     else
                     {
-                        Console.Write(tab.peca(i, j) + " ");
-                        Console.Write("");
+                        imprimirPeca(tab.peca(i, j));
+                        Console.Write(" ");
                     }
                         
                 }
@@ -25,6 +27,14 @@ namespace xadrez_console
             }
             Console.WriteLine("  a b c d e f g h");
         }
+
+        public static PosicaoXadrez lerPosicaoXadrez()
+        {
+            string s = Console.ReadLine();
+            char linha = s[0];
+            int coluna = int.Parse(s[1] + "");
+        }
+
         public static void imprimirPeca(Peca peca)
         {
             if(peca.cor == Cor.Branca)

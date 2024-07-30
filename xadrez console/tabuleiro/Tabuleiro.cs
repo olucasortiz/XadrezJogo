@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.Design;
-
-namespace tabuleiro
+﻿namespace tabuleiro
 {
     class Tabuleiro
     {
@@ -29,6 +27,20 @@ namespace tabuleiro
             p.posicao = pos;
         }
 
+        public Peca retirarPeca(Posicao pos)
+        {
+            if(peca(pos) == null)
+            {
+                return null;
+            }
+            Peca aux = peca(pos);
+            aux.posicao = null;
+            pecas[pos.linha, pos.coluna] = null;
+            return aux;
+        }
+
+ 
+
         public Peca peca(Posicao pos)
         {
             return pecas[pos.linha, pos.coluna];
@@ -41,7 +53,7 @@ namespace tabuleiro
             else return true;
         }
 
-        public void validarPosicao(Posicao pos)
+        public void validarPosicao(Posicao pos) 
         {
             if (!posicaoValida(pos))
             {
